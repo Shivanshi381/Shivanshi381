@@ -1,6 +1,6 @@
 # Hello, I'm Shivanshi Tiwari 👋
 
-Welcome to my GitHub profile! I'm a 4th year student doing my BTech in computer Science from Symbiosis Institute of Technology,Pune based . Here, you'll find some of my projects and contributions.
+Welcome to my GitHub profile! I'm a 4th year student doing my BTech in computer Science from Symbiosis Institute of Technology,Pune. Here, you'll find some of my projects and contributions.
 
 ## About Me
 - 📫 How to reach me: shiviworkit@gmail.com | https://www.linkedin.com/in/shivanshi-tiwari-2a5757210/
